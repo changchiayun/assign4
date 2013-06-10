@@ -12,14 +12,14 @@ body{
 	border:1px solid;
 }
 		
-#FriendList ul{
+#FriendList{
 	overflow:auto;
 	height:100%;
 	margin:0px;
 	padding:0px;
 }
 		
-#FriendList ul div{
+#FriendList div{
 	background:#3b5998;
 	margin-bottom:1px;
 	color:#FFFFFF;
@@ -35,7 +35,7 @@ body{
 	font-size:12px;
 }
 			
-#FriendList ul div:hover{
+#FriendList div:hover{
 	background:#DFDFDF;
 	color:#3b5998;
 	cursor:hand;
